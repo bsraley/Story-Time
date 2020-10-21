@@ -17,3 +17,4 @@ Lederhose: Leather Breeches
 Luftschloss: Castle in the air
 wettbewerbsfaehig: Competitive
 Schneewittchen: Snow White
+Leistung: accomplishment
